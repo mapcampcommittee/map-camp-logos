@@ -1,1 +1,2 @@
-# map-camp-logos
+# Map Camp logos
+
